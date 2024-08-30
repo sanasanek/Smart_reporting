@@ -1,0 +1,9 @@
+{
+  "compName": "My_Copmuter01",
+  "intoduced": "1987-12-13",
+  "discontinued": "1999-11-12",
+  "discontinuedError": "1900-11-12",
+  "apple": "ap",
+  "apple2": "app",
+  "dummy": "QQQ"
+}
